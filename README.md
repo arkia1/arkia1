@@ -14,7 +14,7 @@
 
 ## 💼 Work Experience
 
-### 💼 Günsel Electric Car & Punica Studio *(Joint Project)*  
+### 💼 Günsel Electric Car & Punica *(Joint Project)*  
 **Role**: Frontend Developer  
 **Project**: All-in-One HR Management Platform  
 - Developed the **landing page** and **job posting UI**  
