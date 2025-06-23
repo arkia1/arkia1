@@ -48,36 +48,86 @@ A Retrieval-Augmented Generation (RAG) system to enhance GPT output by retrievin
 
 ## 🛠️ Skills
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=openai" width="40"/><br/>OpenAI API</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=csharp" width="40"/><br/>C#</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
-    <td align="center"><img src="https://simpleicons.org/icons/django.svg" width="40"/><br/>Django REST</td>
-    <td align="center"></td>
-  </tr>
-</table>
+<div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
+    <div>TypeScript</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
+    <div>JavaScript</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
+    <div>React</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
+    <div>Next.js</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
+    <div>Tailwind CSS</div>
+  </div>
+  <!-- Continue for all skills -->
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+    <div>Node.js</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
+    <div>Express.js</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />
+    <div>FastAPI</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+    <div>Python</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
+    <div>Firebase</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
+    <div>MySQL</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
+    <div>MongoDB</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+    <div>Docker</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI API" width="40" height="40" />
+    <div>OpenAI API</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="40" height="40" />
+    <div>C#</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" />
+    <div>Vercel</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+    <div>Git</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+    <div>GitHub</div>
+  </div>
+  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=django" alt="Django REST" width="40" height="40" />
+    <div>Django REST</div>
+  </div>
+</div>
+
 
 ---
 
