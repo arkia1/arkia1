@@ -48,9 +48,36 @@ A Retrieval-Augmented Generation (RAG) system to enhance GPT output by retrievin
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,mysql,mongodb,docker,vercel,git,github" alt="My Skills" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br/>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>Firebase</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=openai" width="40"/><br/>OpenAI API</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=csharp" width="40"/><br/>C#</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40"/><br/>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/>GitHub</td>
+    <td align="center"><img src="https://simpleicons.org/icons/django.svg" width="40"/><br/>Django REST</td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ---
 
