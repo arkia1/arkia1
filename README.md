@@ -70,8 +70,8 @@ I once built and shipped a product from scratch — design, code, and logic — 
 
 ## 📬 Contact Me
 
-- 📫 Email: **arkia.ebrahimi@proton.me**  
-- 🌐 Portfolio: [arkiaebra.github.io](https://arkiaebra.github.io/)  
+- 📫 Email: **arkia.ebrahimi84@gmail.com**  
+- 🌐 Portfolio: [https://personal-portfolio-red-psi.vercel.app/](https://personal-portfolio-red-psi.vercel.app/)  
 - 🧰 GitHub: [github.com/arkia1](https://github.com/arkia1)  
 - 🌍 Open to remote roles in AI, web tools, and software engineering with real-world impact
 
