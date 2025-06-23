@@ -48,85 +48,28 @@ A Retrieval-Augmented Generation (RAG) system to enhance GPT output by retrievin
 
 ## 🛠️ Skills
 
-<div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" />
-    <div>TypeScript</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
-    <div>JavaScript</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
-    <div>React</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" />
-    <div>Next.js</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40" />
-    <div>Tailwind CSS</div>
-  </div>
-  <!-- Continue for all skills -->
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
-    <div>Node.js</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
-    <div>Express.js</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" />
-    <div>FastAPI</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-    <div>Python</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
-    <div>Firebase</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
-    <div>MySQL</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
-    <div>MongoDB</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
-    <div>Docker</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI API" width="40" height="40" />
-    <div>OpenAI API</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="40" height="40" />
-    <div>C#</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" />
-    <div>Vercel</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
-    <div>Git</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-    <div>GitHub</div>
-  </div>
-  <div style="display: inline-block; width: 100px; margin: 8px; padding: 12px; border: 1px solid #ddd; border-radius: 8px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django REST" width="40" height="40" />
-    <div>Django REST</div>
-  </div>
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
 ---
